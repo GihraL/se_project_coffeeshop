@@ -5,7 +5,7 @@
 .nav__logo {
   position: relative;
   width: 105px;
-  height: 30px;
+  height: 39px;
   left: -50px;
 }
 .nav__links {
@@ -29,5 +29,4 @@
 
 .nav__link:hover {
   opacity: 50%;
-  color: #2f80ed;
 }
